@@ -1,0 +1,2 @@
+Q15- Conflit de merge : Quand Git ne peut pas merge les changements de deux commits différents parce qu'ils modifient exactement les mêmes lignes de code. Pour le résoudre, on doit décider quelle version prendre, on peut utiliser "git mergetool" pour voir facilement les conflits.
+
