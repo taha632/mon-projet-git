@@ -1,2 +1,5 @@
-Q15- Conflit de merge : Quand Git ne peut pas merge les changements de deux commits différents parce qu'ils modifient exactement les mêmes lignes de code. Pour le résoudre, on doit décider quelle version prendre, on peut utiliser "git mergetool" pour voir facilement les conflits.
+https://github.com/taha632/mon-projet-git.git
+PR URL : https://github.com/taha632/mon-projet-git/pull/1
 
+Q15- Conflit de merge : Quand Git ne peut pas merge les changements de deux commits différents parce qu'ils modifient exactement les mêmes lignes de code. Pour le résoudre, on doit décider quelle version prendre, on peut utiliser "git mergetool" pour voir facilement les conflits.
+Q24- On crée une PR pour être en mesuree de faire une revue des modifications du code avant de le merger directement dans la branche principale distante.
